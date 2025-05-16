@@ -12,6 +12,7 @@ class Init(object):
     uwsgi = False
     site_title = "cdproject"
     ip = "127.0.0.1"
+    #ip = "2001:288:6004:17:fff1:cd25:0000:a003"
     dynamic_port = 9444
     static_port = 8444
     def __init__(self):
